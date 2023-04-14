@@ -18,7 +18,7 @@ public class Exercicio3 {
       d = sc.nextInt();
 
       dif = a * b -c * d;
-      System.out.println("A diferença é de : " + dif);
+      System.out.println("A diferença é de : \n --> " + dif);
       //System.out.printf("A=%.4f%n", A);
         sc.close();
     }
