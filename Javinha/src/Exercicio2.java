@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-import javax.print.event.PrintJobListener;
+//import javax.print.event.PrintJobListener;
 
 public class Exercicio2 {
   public static void main(String[] args) {
