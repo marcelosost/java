@@ -24,7 +24,7 @@ public class Exercicio5 {
     cod2 = sc.nextInt();
     System.out.println("Digite a quantidade da peça 2: ");
     qtpeca2 = sc.nextInt();
-    System.out.println("Digite o preço da peça 1: ");
+    System.out.println("Digite o preço da peça 2: ");
     preco2 = sc.nextDouble();
 
     total = qtpeca1 * preco1 + qtpeca2 * preco2;
