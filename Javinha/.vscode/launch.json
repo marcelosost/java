@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exercicio6",
+      "request": "launch",
+      "mainClass": "Exercicio6",
+      "projectName": "Javinha_b51929ce"
+    },
+    {
+      "type": "java",
       "name": "Exercicio5",
       "request": "launch",
       "mainClass": "Exercicio5",
